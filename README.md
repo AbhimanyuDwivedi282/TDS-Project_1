@@ -1,4 +1,4 @@
-# GitHub Users in Boston
+# GitHub Users in Bangalore
 
 This repository contains data about GitHub users in Bangalore with over 100 followers and their repositories.
 
