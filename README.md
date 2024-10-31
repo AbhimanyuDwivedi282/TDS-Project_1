@@ -1,6 +1,8 @@
 # GitHub Users in Bangalore
 
-This repository contains data about GitHub users in Bangalore with over 100 followers and their repositories.
+1. Data Collection:  I used the GitHub API and Python scripts to gather data on Bangalore-based users with over 100 followers, iterating through profile pages to collect comprehensive details.
+2. Interesting Insight: Found that developers associated with educational and Fintech institutions are among the most popular in Bangalore's GitHub community.
+3. Developer Recommendation: Contributing to popular open-source repositories and being associated with an educational institution may help increase followers and visibility.
 
 ## Files
 
